@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g3r0m4" alt="g3r0m4" /></a> </p>
 
-- my hobbies **reading manga,manhwa,manhua**
+-  **reading manga,manhwa,manhua playing cod,ml,chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
