@@ -55,5 +55,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3r0m4&show_icons=true&locale=en&layout=compact" alt="g3r0m4" />
 </p>
-<img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67"/> Github Stats 
+
+<img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67"/>Github Stats 
  <img src="https://github-readme-stats.vercel.app/api?username=g3r0m4&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
