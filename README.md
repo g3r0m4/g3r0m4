@@ -1,3 +1,5 @@
+<div align=center>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+I'm+Hexcz%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 
 <h3 align="center">A normal guy exploring the world of cyber security and coding</h3>
