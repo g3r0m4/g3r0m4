@@ -13,10 +13,9 @@
 </p>
 
 ## My hobbies
-- reading manhwa
-- reading manga
-- reading literature Books
-- playing cod,ml,valo,lol :)
+- reading  
+- playing games
+- trolling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
