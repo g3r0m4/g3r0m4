@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hexcz</h1>
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+im hexcz+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 <h3 align="center">A normal guy exploring the world of cyber security and coding</h3>
 <img src="mrobot.gif">
 
