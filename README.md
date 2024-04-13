@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/KjhWWvZ/IMG-20240413-185346.jpg)
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=95fff5&size=36&multiline=true&width=970&height=60&lines=thankyou+for+visiting+my+github+ )](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=95fff5&size=36&multiline=true&width=970&height=60&lines=what's+up? )](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3r0m4&label=Profile%20views&color=0e75b6&style=flat" alt="g3r0m4" /> </p>
 
